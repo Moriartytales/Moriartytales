@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moriartytales g
+- 👋 Hi, I’m @Moriartytales 
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning the basics of css
 - 💞️ I’m looking to collaborate on ...
